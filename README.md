@@ -53,7 +53,7 @@ The executive dashboard provides a high-level view of customer behavior, spendin
 
 <p align="center">
 
-<img src="Images/EXECUTIVE CUSTOMER & CAMPAIGN DASHBOARD.png" alt="Executive Customer and Campaign Dashboard" width="100%">
+<img src="./Images/EXECUTIVE%20CUSTOMER%20%26%20CAMPAIGN%20DASHBOARD.png" alt="Executive Customer and Campaign Dashboard" width="100%">
 
 </p>
 
