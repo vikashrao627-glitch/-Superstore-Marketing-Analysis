@@ -1,4 +1,23 @@
-# 📊 Superstore Marketing Analysis
+#  📊 Superstore Marketing Analysis
+
+<p align="center">
+
+# 🚀 Customer & Marketing Analytics using Excel, SQL, Python, Statistics, RFM & BI
+
+### Turning Customer Data into Actionable Marketing Insights
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+
+</p>
 
 ## 📌 Project Overview
 
@@ -25,6 +44,76 @@ The project aims to answer key business questions such as:
 * What marketing strategies can improve customer engagement and campaign response?
 
 ---
+
+# 📊 Dashboard Preview
+
+## 🏢 Executive Customer & Campaign Dashboard
+
+The executive dashboard provides a high-level view of customer behavior, spending, campaign performance, and purchasing activity.
+
+<p align="center">
+
+<img src="Images/EXECUTIVE CUSTOMER & CAMPAIGN DASHBOARD.png" alt="Executive Customer and Campaign Dashboard" width="100%">
+
+</p>
+
+### Dashboard Focus
+
+- 👥 Customer overview
+- 💰 Customer spending
+- 📢 Campaign response
+- 🛒 Purchase channels
+- 📈 Business KPIs
+- 🎯 Customer targeting
+
+---
+
+# 📈 Marketing & Customer Segment Dashboard
+
+This dashboard focuses on customer segmentation, marketing performance, spending patterns, and customer behavior.
+
+<p align="center">
+
+<img src="Images/MARKETING & CUSTOMER SEGMENT DASHBOARD.png" alt="Marketing and Customer Segment Dashboard" width="100%">
+
+</p>
+
+### Analysis Includes
+
+- Customer segments
+- Campaign response
+- Product spending
+- Purchase channels
+- Customer behavior
+- Marketing opportunities
+
+---
+
+# 👥 Customer Segment Details
+
+Customer segmentation is an important part of the project.
+
+The analysis uses **RFM — Recency, Frequency, and Monetary Value** to group customers based on their purchasing behavior.
+
+<p align="center">
+
+<img src="Images/CUSTOMER SEGMENT DETAILS.png" alt="Customer Segment Details" width="100%">
+
+</p>
+
+### Main Customer Segments
+
+🏆 **Champions**
+
+💎 **Loyal Customers**
+
+⭐ **Potential Loyalists**
+
+🌱 **New Customers**
+
+⚠️ **At Risk**
+
+🔴 **Lost Customers**
 
 # 🛠️ Tools & Technologies
 
